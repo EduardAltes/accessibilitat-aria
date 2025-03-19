@@ -310,5 +310,11 @@ tfoot {
     form {
         width: 90%;
     }
+
+    .dropdown-item {
+        align-items: center;
+        width: fit-content;
+        text-align: center;
+    }
 }
 
